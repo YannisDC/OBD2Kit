@@ -4,6 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "OBD2Kit iPhone Car Diagnostic Library"
 
   s.description  = <<-DESC
+			This is a library for use with the ELM327 dongle
                    DESC
 
   s.homepage     = "https://github.com/amaechler/OBD2Kit"
