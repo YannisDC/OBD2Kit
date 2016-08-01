@@ -43,6 +43,6 @@
  
  @return WiFi scan tool instance
  */
-+ (instancetype)scanToolWithHost:(NSString*)host andPort:(uint)port;
++ (id)scanToolWithHost:(NSString*)host andPort:(uint)port;
 
 @end
